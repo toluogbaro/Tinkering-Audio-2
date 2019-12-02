@@ -14,7 +14,8 @@ download the Zip file and extract everything in it, Open unity and click open pr
 
 ## Tolu Ogbaro - Contract 3
 
-Clone Repository and open "Tinkering Audio Group 7" from "Final Version" in Unity
+Clone Repository and open "Tinkering Audio Group 7" from "Final Version" in Unity.
+
 
 ### The Unlicense
   
